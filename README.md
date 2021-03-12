@@ -3,7 +3,7 @@ All about me and my professional life.
 
 
 * GitHub Pages - https://woodyiii.github.io
-  * Google Analytics
+  * Google Analytics / Google Tag Manager
   * Design / Layout ideas
     * Boostrap template with library
     * Tailwind (straight CSS)
