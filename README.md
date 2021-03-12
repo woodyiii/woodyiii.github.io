@@ -38,5 +38,6 @@ All about me and my professional life.
 
 	* Archive ideas
 	  * Article bookmarklet / pinterest board
+	  * https://www.drdobbs.com
 
 Leaving some room for innovation!
