@@ -39,5 +39,6 @@ All about me and my professional life.
 	* Archive ideas
 	  * Article bookmarklet / pinterest board
 	  * https://www.drdobbs.com
+	  * https://developerexperience.io
 
 Leaving some room for innovation!
