@@ -1,0 +1,12 @@
+NAPS2 Software - Best Scanner Settings
+
+- Profile Canon MX922
+-- Driver = TWAIN
+-- Source = Feeder or Duplex (Note: Duplex only accepts "Letter" size documents but Feeder can handle "Legal" size)
+-- 300 dpi
+-- Black & White
+-- Size = Legal
+-- Advanced
+	-- Auto OCR
+	-- Auto brightness / contrast correction
+-- accept most other defaults
