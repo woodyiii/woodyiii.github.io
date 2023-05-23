@@ -35,6 +35,9 @@ All about me and my professional life.
 		- 💬 Ask me about ...
 		- 📫 How to reach me: ...
 		- ⚡ Fun fact: …
+		
+	* Credit: https://bwiggs.com/notebook/
+		* good way to organize useful posts
 
 	* Archive ideas
 	  * Article bookmarklet / pinterest board
