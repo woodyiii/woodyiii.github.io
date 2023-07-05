@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-US">
 
 <head>
@@ -6,24 +6,67 @@
     <title>GitHub woodyiii</title>
     <meta name="description" content="GitHub personal page for woodyiii">
     <meta name="author" content="woodyiii">
-    <!-- <meta name="viewport" content="width=device-width,initial-scale=1"> -->
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <!-- <link rel="icon" href="/favicon-48x48.png"> -->
     <!-- <link rel="apple-touch-icon" href="/apple-touch-icon.png"><meta name="theme-color" content="#ffffff"> -->
+
+    <!-- Styles -->
+    <link href="/css/custom.css" rel="stylesheet" type="text/css" media="all">
+    <script src="https://kit.fontawesome.com/f23243a7f2.js" crossorigin="anonymous"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-89MQP869WD"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-89MQP869WD');
+    </script>
+
 </head>
 
 <body>
-    <h1>Hello World</h1>
-    <a href="https://stackoverflow.com/users/321459/woodyiii"><img
-            src="https://stackoverflow.com/users/flair/321459.png" width="208" height="58"
-            alt="profile for woodyiii at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-            title="profile for woodyiii at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-    
-    <h2>Developer Stuff I Like</h2>
+    <div class="content container">
+        <h1>Welcome</h1>
+        <p>Starting with a single page all about me and my professional life.</p>
+        <p id="social-icons">
+            <a href="https://twitter.com/iiiwoodrow"><i class="fa fa-fw fa-twitter"></i></a>&nbsp;
+            <a href="https://github.com/woodyiii"><i class="fa fa-fw fa-github"></i></a>&nbsp;
+            <a href="https://www.linkedin.com/in/woodyiii/"><i class="fa fa-fw fa-linkedin"></i></a>&nbsp;
+            <br>
+            <a target="_blank" href="https://stackoverflow.com/users/321459/woodyiii"><img
+                    src="https://stackoverflow.com/users/flair/321459.png" width="208" height="58"
+                    alt="profile for woodyiii at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+                    title="profile for woodyiii at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+        </p>
+
+        <h2>Developer Stuff I Like</h2>
         <ul>
-		<li><a target="_blank" href="https://37signals.com">37signals.com</a></li>
-		<li><a target="_blank" href="https://grugbrain.dev">grugbrain.dev</a></li>
-		<li>Microsoft PowerToys <a target="_blank" href="https://github.com/microsoft/PowerToys">GitHub</a> | <a target="_blank" href="https://aka.ms/powertoys-docs">Homepage</a></li>
+            <li><a target="_blank" href="https://37signals.com">37signals.com</a></li>
+            <li><a target="_blank" href="https://grugbrain.dev">grugbrain.dev</a></li>
+            <li>Microsoft PowerToys <a target="_blank" href="https://github.com/microsoft/PowerToys">GitHub</a> | <a
+                    target="_blank" href="https://aka.ms/powertoys-docs">Homepage</a></li>
         </ul>
+        <h2>Recent Articles I Found Interesting</h2>
+        <ol>
+            <li><a target="_blank"
+                    href="https://hbr.org/2003/02/whos-bringing-you-hot-ideas-and-how-are-you-responding">Who’s Bringing
+                    You
+                    Hot Ideas (and How Are You Responding)? (hbr.org)</a></li>
+        </ol>
+
+        <h2>Credit / Props / Shout Out</h2>
+        <p>Credit to both <a href="https://bwiggs.com/notebook/"
+                tooltip="Good way to organize useful posts. An evolving collection of notes, thoughts and research. Organized by categories, mostly unfinished, messy. Sort of like my desk.">Brian
+                Wiggington</a>
+            and <a href="http://cathydeng.github.io" tooltip="reverse job posting concept / GitHub IO page design">Cathy
+                Deng</a> for some design and inspiration here. Also thanks to GitHub for free hosting, free repos for
+            developers like me.</p>
+        </h1>
+    </div>
 </body>
 
 </html>

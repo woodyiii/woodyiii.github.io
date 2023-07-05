@@ -10,7 +10,6 @@ All about me and my professional life.
     * Font Awesome
     * Vue
     * Jekyll Blob, CNAME - https://pages.github.com/
-    * Credit: http://cathydeng.github.io
 	* Sitemap ideas
 	  * bootstrap-home.html
 	  * vuejs-home.html
@@ -36,8 +35,9 @@ All about me and my professional life.
 		- 📫 How to reach me: ...
 		- ⚡ Fun fact: …
 		
-	* Credit: https://bwiggs.com/notebook/
-		* good way to organize useful posts
+	* Credit: 
+		* https://bwiggs.com/notebook/ - good way to organize useful posts
+		* http://cathydeng.github.io - reverse job posting concept / GitHub IO page design
 
 	* Archive ideas
 	  * Article bookmarklet / pinterest board
