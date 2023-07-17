@@ -11,66 +11,47 @@
   @font-face {
     font-family: SourceSansPro-Black;
     src: url(/fonts/SourceSansPro-Black.otf);
-  } */
+  } 
   
-  
-  /* body{
-    font-family: SourceSansPro-Regular, sans-serif;
-    background-color: none;
-    font-size: 18px;
-  }
-  
-  h1 {
-    font-family: SourceSansPro-Black;
-    font-size: 40px;
-  } */
-    
-  
-  .padding {
-    height: 18px;
-  }
-  
-  .content {
-    padding-top: 60px;
-  }
-  
+  */
 
-  #social-icons {
-    font-size: 24px;
+body {
+  background-color: none;
+  font-size: 18px;
+}
+
+.padding {
+  height: 18px;
+}
+
+.content {
+  padding-top: 60px;
+}
+
+
+#social-icons {
+  font-size: 24px;
+}
+
+ul,
+ol {
+  padding-left: 18px;
+  padding-bottom: 18px;
+}
+
+@media only screen and (max-width : 767px) {
+  #face-div {
+    padding-top: 40px;
+    padding-bottom: 20px;
   }
-  
-  ul {
-    margin: 0;
-    padding-left: 18px;
-    padding-bottom: 18px;
-    font-size: 90%
+
+  #face-div img {
+    height: 120px;
+    width: 120px;
   }
-  ul {
-    list-style-type: none;
+
+  .content {
+    padding-top: 0px;
   }
-  ul > li {
-    text-indent: -5px;
-  }
-  ul > li:before {
-    content: "- ";
-    text-indent: -5px;
-  }
-  
-  
-  @media only screen and (max-width : 767px) {
-    #face-div {
-      padding-top: 40px;
-      padding-bottom: 20px;
-    }
-    #face-div img{
-      height: 120px;
-      width: 120px;
-    }
-    .content {
-      padding-top: 0px;
-    }
-    h1 {
-      font-size: 36px;
-    }
-  
-  }
+
+}
