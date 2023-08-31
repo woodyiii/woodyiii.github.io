@@ -20,6 +20,10 @@ body {
   font-size: 18px;
 }
 
+nav ul {
+  list-style: none;
+}
+
 .padding {
   height: 18px;
 }
@@ -37,6 +41,14 @@ ul,
 ol {
   padding-left: 18px;
   padding-bottom: 18px;
+}
+
+#div-software-apps {
+  display: inline;
+}
+
+#list-software-apps li {
+  display: inline;
 }
 
 @media only screen and (max-width : 767px) {

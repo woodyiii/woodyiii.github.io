@@ -4,13 +4,13 @@ All about me and my professional life.
 
 * GitHub Pages - https://woodyiii.github.io
   * Google Analytics / Google Tag Manager
-  * Design / Layout ideas
-    * Boostrap template with library
+  * Design / Layout ideas    
+    * Jekyll Blob, CNAME - https://pages.github.com/
+	* Boostrap template with library
     * Tailwind (straight CSS)
     * Font Awesome
-    * Vue
-    * Jekyll Blob, CNAME - https://pages.github.com/
-	* Sitemap ideas
+	* Sitemap ideas 
+	* Hello World per Framework
 	  * bootstrap-home.html
 	  * vuejs-home.html
 	  * framework-foo-home.html
@@ -22,7 +22,6 @@ All about me and my professional life.
 	  * Things that interest me: 
 	  * Things that impress me: a well-designed system, productivity time-management to-do list hacks
 	  * What I’m working on these days
-	  * What I'm reading or learning about
 			
 		* Include section about music, song writings
 		* Other templated section ideas
@@ -34,10 +33,6 @@ All about me and my professional life.
 		- 💬 Ask me about ...
 		- 📫 How to reach me: ...
 		- ⚡ Fun fact: …
-		
-	* Credit: 
-		* https://bwiggs.com/notebook/ - good way to organize useful posts
-		* http://cathydeng.github.io - reverse job posting concept / GitHub IO page design
 
 	* Archive ideas
 	  * Article bookmarklet / pinterest board
