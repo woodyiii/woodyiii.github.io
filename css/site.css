@@ -32,6 +32,9 @@ nav ul {
   padding-top: 60px;
 }
 
+.woodyiii-no-border {
+  border: 0px;
+}
 
 #social-icons {
   font-size: 24px;
